@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/codrop-webclient/static/css/main.f855e6bc.css",
-    "main.js": "/codrop-webclient/static/js/main.85aabb6b.js",
+    "main.css": "/codrop-webclient/static/css/main.e6c13ad2.css",
+    "main.js": "/codrop-webclient/static/js/main.1369acaa.js",
     "static/js/453.4af549a0.chunk.js": "/codrop-webclient/static/js/453.4af549a0.chunk.js",
-    "static/media/logo.svg": "/codrop-webclient/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/codrop-webclient/index.html",
-    "main.f855e6bc.css.map": "/codrop-webclient/static/css/main.f855e6bc.css.map",
-    "main.85aabb6b.js.map": "/codrop-webclient/static/js/main.85aabb6b.js.map",
+    "main.e6c13ad2.css.map": "/codrop-webclient/static/css/main.e6c13ad2.css.map",
+    "main.1369acaa.js.map": "/codrop-webclient/static/js/main.1369acaa.js.map",
     "453.4af549a0.chunk.js.map": "/codrop-webclient/static/js/453.4af549a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.85aabb6b.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1369acaa.js"
   ]
 }
